@@ -15,8 +15,9 @@
 ### 🔹 Python DataFrame
 - Different Ways of Creating DataFrame
 - Indexing and Slicing the DataFrame
-  - `df[row label][column label]`
-  - `df[row index][column index]`
+  1. `df[row label][column label]`
+  2. `df.loc[row label][column label]`
+  3. `df.iloc[row index][column index]`
 - Using `iterrows()` with for loop
 
 ### 🔹 Modifying the DataFrame
@@ -48,3 +49,4 @@
 - Data Cleaning
 - Data Correlation
 - Data Plotting
+
