@@ -1,3 +1,5 @@
+<img src="pandas_logo.svg" alt="NumPy Logo" style="width:250px; height:100px;">
+
 # 🐼 Pandas Python Library 🐼
 
 ## 📚 Topics Covered:
